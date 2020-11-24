@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Dist
+dist/
+
+# Data folder
+data/
+
+# IDEA
+.idea/
